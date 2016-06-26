@@ -1,7 +1,7 @@
 {
   "name": "pdf-browser-viewer",
   "description": "PDF viewer using native browser object as application/pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "The Ingresso Rápido Authors"
   ],
@@ -27,13 +27,13 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
   "homepage": "https://github.com/IngressoRapidoWebComponents/pdf-browser-viewer",
-  "_release": "1.0.0",
+  "_release": "1.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "v1.0.0",
-    "commit": "6ede45914c992226cd508561d9e6550500a89e5d"
+    "tag": "v1.0.1",
+    "commit": "4931dcaa1696a6267fda185ae0c56f42c346e3e5"
   },
   "_source": "https://github.com/IngressoRapidoWebComponents/pdf-browser-viewer.git",
-  "_target": "^1.0.0",
+  "_target": "^1.0.1",
   "_originalSource": "pdf-browser-viewer"
 }

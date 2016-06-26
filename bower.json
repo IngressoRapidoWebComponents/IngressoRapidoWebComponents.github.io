@@ -1,5 +1,5 @@
 {
-  "name": "IngressoRapidoWebComponents",
+  "name": "ingresso-rapido-web-components",
   "homepage": "https://github.com/IngressoRapidoWebComponents/IngressoRapidoWebComponents.github.io",
   "authors": [
     "andrewillard@gmail.com"
@@ -14,7 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "pdf-browser-viewer": "pdf-browser-viewer#^1.0.0"
+    "pdf-browser-viewer": "pdf-browser-viewer#^1.0.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
