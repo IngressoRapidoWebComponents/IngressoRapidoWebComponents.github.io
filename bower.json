@@ -1,0 +1,25 @@
+{
+  "name": "IngressoRapidoWebComponents",
+  "homepage": "https://github.com/IngressoRapidoWebComponents/IngressoRapidoWebComponents.github.io",
+  "authors": [
+    "andrewillard@gmail.com"
+  ],
+  "description": "Documentation pages for Ingresso Rápido's web components",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pdf-browser-viewer": "pdf-browser-viewer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}

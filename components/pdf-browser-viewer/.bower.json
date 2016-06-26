@@ -1,0 +1,39 @@
+{
+  "name": "pdf-browser-viewer",
+  "description": "PDF viewer using native browser object as application/pdf",
+  "version": "1.0.0",
+  "authors": [
+    "The Ingresso Rápido Authors"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "pdf",
+    "pdf-viewer",
+    "pdf-object",
+    "pdf-render"
+  ],
+  "main": "pdf-browser-viewer.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "paper-card": "PolymerElements/paper-card#^1.1.1",
+    "paper-button": "PolymerElements/paper-button#^1.0.12"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "homepage": "https://github.com/IngressoRapidoWebComponents/pdf-browser-viewer",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "6ede45914c992226cd508561d9e6550500a89e5d"
+  },
+  "_source": "https://github.com/IngressoRapidoWebComponents/pdf-browser-viewer.git",
+  "_target": "^1.0.0",
+  "_originalSource": "pdf-browser-viewer"
+}
