@@ -14,7 +14,8 @@
     "tests"
   ],
   "dependencies": {
-    "pdf-browser-viewer": "pdf-browser-viewer#^1.0.1"
+    "pdf-browser-viewer": "pdf-browser-viewer#^1.0.6",
+    "spinner-backdrop": "spinner-backdrop#^1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",

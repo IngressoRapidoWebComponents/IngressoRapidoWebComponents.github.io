@@ -1,8 +1,8 @@
 {
   "name": "pdf-browser-viewer",
   "description": "PDF viewer using native browser object as application/pdf",
-  "version": "1.0.5",
-  "homepage": "https://ingressorapidowebcomponents.github.io/components/pdf-browser-viewer/",
+  "version": "1.0.6",
+  "homepage": "https://ingressorapidowebcomponents.github.io/components/pdf-browser-viewer",
   "authors": [
     "Andrew Willard (https://github.com/andrew-silva-movile)"
   ],
@@ -27,13 +27,13 @@
     "web-component-tester": "^4.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   },
-  "_release": "1.0.5",
+  "_release": "1.0.6",
   "_resolution": {
     "type": "version",
-    "tag": "v1.0.5",
-    "commit": "65859eb754d125cb95c9bd67c995735fc91a92b2"
+    "tag": "v1.0.6",
+    "commit": "9012d6b90dc41c75421ab4d142d13e03976500e7"
   },
   "_source": "https://github.com/IngressoRapidoWebComponents/pdf-browser-viewer.git",
-  "_target": "^1.0.1",
+  "_target": "^1.0.6",
   "_originalSource": "pdf-browser-viewer"
 }
