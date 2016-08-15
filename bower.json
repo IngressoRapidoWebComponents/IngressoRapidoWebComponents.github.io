@@ -16,7 +16,9 @@
   "dependencies": {
     "pdf-browser-viewer": "pdf-browser-viewer#^1.0.6",
     "spinner-backdrop": "spinner-backdrop#^1.0.0",
-    "money-input": "money-input#^1.0.3"
+    "money-input": "money-input#^1.0.3",
+    "creative-photo-editor": "creative-photo-editor#^1.0.0",
+    "vaadin-upload": "vaadin/vaadin-upload#^1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
