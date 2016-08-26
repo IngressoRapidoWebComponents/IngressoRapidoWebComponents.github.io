@@ -32,7 +32,6 @@
     "commit": "bab8d63caec2d39393fa9c0adad5e33ffcf76556"
   },
   "_source": "https://github.com/IngressoRapidoWebComponents/fortune-cookie.git",
-  "_target": "^1.0.1",
-  "_originalSource": "fortune-cookie",
-  "_direct": true
+  "_target": "^1.0.0",
+  "_originalSource": "fortune-cookie"
 }
