@@ -214,7 +214,9 @@ Custom property | Description | Default
       },
 
       _onValueChanged: function(){
-        if (this._formattedValue === '') {
+        this.validate();
+
+        if (this._formattedValue === '' || (this._formattedValue === '0' && this.precision==0)) {
           return;
         }
 
@@ -242,8 +244,6 @@ Custom property | Description | Default
           }
           return;
         }
-
-        this.validate();
 
         this._formattedValue = signal + this._parse(this._removeUI(this._formattedValue));
       },
