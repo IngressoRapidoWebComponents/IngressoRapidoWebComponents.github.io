@@ -1,0 +1,37 @@
+{
+  "name": "fortune-cookie",
+  "description": "Element can be used to set and read cookies",
+  "version": "1.0.1",
+  "homepage": "https://ingressorapidowebcomponents.github.io/components/fortune-cookie",
+  "main": "fortune-cookie.html",
+  "authors": [
+    "Andrew Willard (https://github.com/andrew-silva-movile)"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "cookie",
+    "fortune",
+    "storage",
+    "localstorage"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "bab8d63caec2d39393fa9c0adad5e33ffcf76556"
+  },
+  "_source": "https://github.com/IngressoRapidoWebComponents/fortune-cookie.git",
+  "_target": "^1.0.0",
+  "_originalSource": "fortune-cookie"
+}
